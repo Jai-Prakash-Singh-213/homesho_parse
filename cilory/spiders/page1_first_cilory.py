@@ -40,7 +40,7 @@ def main4(i, q):
             driver = phan_proxy.main(catlink)
 
             try:
-                WebDriverWait(driver, 10).until( ajax_complete,  "Timeout waiting for page to load")
+                WebDriverWait(driver, 1000).until( ajax_complete,  "Timeout waiting for page to load")
             except WebDriverException:
                 pass
             
@@ -50,7 +50,7 @@ def main4(i, q):
                 pass
   
             try:
-                WebDriverWait(driver, 10).until( ajax_complete,  "Timeout waiting for page to load")
+                WebDriverWait(driver, 1000).until( ajax_complete,  "Timeout waiting for page to load")
             except WebDriverException:
                 pass
 
@@ -61,7 +61,7 @@ def main4(i, q):
                 pass
     
             try:
-                WebDriverWait(driver, 10).until( ajax_complete,  "Timeout waiting for page to load")
+                WebDriverWait(driver, 1000).until( ajax_complete,  "Timeout waiting for page to load")
             except WebDriverException:
                 pass
  
@@ -246,7 +246,7 @@ def main():
 
 
 def sunpermain():
-    #main()    
+    main()    
     main3()
 
 
