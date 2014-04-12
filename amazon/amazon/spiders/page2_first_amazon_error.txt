@@ -1,0 +1,8 @@
+['Home & Kitchen', 'http://www.amazon.in/Home-D%C3%83%C2%A9cor/b/ref=sd_allcat_home_decor?ie=UTF8&node=1380374031', 'Home & Decor']
+
+['Home & Kitchen', 'http://www.amazon.in/Home-D%C3%83%C2%A9cor/b/ref=sd_allcat_home_decor?ie=UTF8&node=1380374031', 'Home & Decor']
+
+['Home & Kitchen', 'http://www.amazon.in/Home-D%C3%83%C2%A9cor/b/ref=sd_allcat_home_decor?ie=UTF8&node=1380374031', 'Home & Decor']
+
+['Handbags & Luggage', 'http://www.amazon.in/Sling-Bags/b/ref=sd_allcat_hbc_sling/276-6718833-1247838?ie=UTF8&node=1983351031', 'Sling Bags']
+
