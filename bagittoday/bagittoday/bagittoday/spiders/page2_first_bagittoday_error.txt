@@ -1,0 +1,324 @@
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/bath-and-toilet-accessories/c-2192/', 'Bath & Toilet Accessories', 'silver queen', 'http://www.bagittoday.com/silver-queen-opener-by-mesleep/pr-215694_c-2192/', 'http://images.bagittoday.com/0/images/prod['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/track-suits/c-2102/', 'Track Suits', 'lotto', 'http://www.bagittoday.com/lotto-tracksuit/pr-199346_c-2102/', 'http://images.bagittoday.com/0/images/product/199346/Lotto_Tracksuit_Blue_225X225_00_0.jpg', 'lotto tracksuit']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/sunglasses/c-40/', 'Sunglasses', 'adine', 'http://www.bagittoday.com/adine-pink-sunglasses/pr-215974_c-40/', 'http://images.bagittoday.com/0/images/product/215974/Adine_Pink_Sunglasses_225X225_00_0.jpg', 'adine pink sunglasses']
+
+['Kids', 'http://www.bagittoday.com/toys-and-books/c-1032/', ' Toys & Books', 'http://www.bagittoday.com/dolls-and-soft-toys/c-493/', 'Dolls & Soft Toys', 'private', 'http://www.bagittoday.com/', 'http://images.bagittoday.com/0/images/product/224237/?Carry_Me_Along_Teddy_225X225_00_0.jpg', '?carry me along teddy']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/curtains/c-2199/', 'Curtains', 'sai arpan', 'http://www.bagittoday.com/sai-arpan-fancy-single-door-curtain-/pr-220853_c-2199/', 'http://images.bagittoday.com/0/images/product/2208['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/formal-shoes/c-2087/', 'Formal Shoes', 'ziera', 'http://www.bagittoday.com/ziera-formal-shoes-black/pr-50266_c-2087/', 'http://images.bagittoday.com/0/images/product/50266/ziera-shoe-310_FTFORZIE00001_350X350_0.jpg', 'ziera formal shoes black']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/formal-shoes/c-2087/', 'Formal Shoes', 'fortune', 'http://www.bagittoday.com/fortune-black/pr-1953/Sai_Arpan_Fancy_Single_Door_Curtain_225X225_00_0.jpg', 'sai arpan fancy single door curtain']
+
+['Home & Kitchen', 'http://www.bagittoday.co7480_c-2087/', 'http://images.bagittoday.com/0/images/product/197480/Fortune_Black_225X225_00_0.jpg', 'fortune black']
+
+LK-8_225X225_00_0.jpg', 'lc-lc1539 black']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/formal-shoes/c-2087/', 'Formal Shoes', 'private', 'http://www.bagittoday.com/lc-lc1539-black/pr-60992_c-2087/', 'http://images.bagittoday.com/0/images/product/60992/LC-LC1539Bm/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/curtains/c-2199/', 'Curtains', 'sai arpan', 'http://www.bagittoday.com/sai-arpan-fancy-door-curtain-set-of-2/pr-220864_c-2199/', 'http://images.bagittoday.com/0/images/product/220864/Sai_Arpan_Fancy_Door_Curtain_Set_Of_2_225X225_00_0.jpg', 'sai arpan fancy door curtain set of 2']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/formal-shoes/c-2087/', 'Formal Shoes', 'private', 'http://www.bagittoday.com/lc-lc1234-black/pr-60969_c-2087/', 'http://images.bagittoday.com/0/images/product/60969/LC-LC1234BLK-8_225X225_00_0.jpg', 'lc-lc1234 black']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/sports-shoes/c-2073/', 'Sports Shoes', 'puma', 'http://www.bagittoday.com/puma-racer-shoes/pr-200354_c-2073/', 'http://images.bagittoday.com/0/images/product/200354/Puma_Racer_35572002_-_White-Black_7_250X250_00_0.jpg', 'puma racer shoes']
+
+['Men', 'http://www.bagittoday.com/accessories/c-35/', ' Accessories', 'http://www.bagittoday.com/belts-and-wallets/c-33/', 'Belts & Wallets', 'private', 'http://www.bagittoday.com/grey-and-blue-gents-wallet/pr-209411_c-33/', 'http://images.bagittoday.com/0/images/product/209411/Gre['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/sandals-and-slippers/c-2089/', 'Sandals & Slippers', 'maco', 'http://www.bagittoday.com/maco-footwear---black/pr-125287_c-2089/', 'http://images.bagittoday.com/0/images/product/125287/Maco_Footwear_-_Black_225X225_00_0.jpg', 'maco footwear - black']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/sandals-and-slippers/c-2089/', 'Sandals & Slippers', 'private', 'http://www.bagittoday.com/lc-lc0765-black/pr-60972_c-2089/', 'http://images.bagittoday.com/0/images/product/60972/LC-LC0765BLK-7_225X225_00_0.jpg', 'lc-lc0765 black']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/t-shirts/c-2/', 'T Shirts', 'mtv', 'http://www.bagittoday.com/mtv-mens-t-shirt/pr-59888_c-2/', 'http://images.bagittoday.com/0/images/product/59888/MTV_T.SHIRT_MTV-002_SIZE-LARGE_225X225_00_0.jpg', "mtv men's t-shirt"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/appliances/c-447/', ' Appliances', 'http://www.bagittoday.com/home-appliances/c-614/', 'Home Appliances', 'havells', 'http://www.bagittoday.com/havells-dry-iron---jio---blue/pr-198297_c-614/', 'http://images.bagittoday.com/0/images/product/198297/Havells_Dry_Iron_-_Jio_-_Blue_225X225_00_0.jpg', 'havells dry iron - jio - blue']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-decor/c-1011/', ' Home Decor', 'http://www.bagittoday.com/wall-paintings/c-233/', 'Wall Paintings', 'private', 'http://www.bagittoday.com/snowflake-design-clay-wood-and-kundans-wall-d', 'http://images.bagittoday.com/0/images/product/224050/Snowflake_Design_Clay,_Wood_And_Kundans_Wall_D?cor_225X225_00_0.jpg', 'snowflake design clay, wood and kundans wall d?cor']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/track-suits/c-2102/', 'Track Suits', 'lypd', 'http://www.bagittoday.com/lypd-london-track-suit-black-sky-blue-royal-white-/pr-60412_c-2102/', 'http://images.bagittoday.com/0/images/product/60412/Lypd_London_Track_Suit_Black_Sky_Blue_Royal_White_225X225_00_1.jpg', 'lypd london track suit black sky blue royal white']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/sunglasses/c-40/', 'Sunglasses', 'adine', 'http://www.bagittoday.com/adine-red-sunglasses/pr-212398_c-40/', 'http://images.bagittoday.com/0/images/product/212398/Adine_Red_Sunglasses_225X225_00_0.jpg', 'adine red sunglasses']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/sunglasses/c-40/', 'Sunglasses', 'private', 'http://www.bagittoday.com/reecap-unisex-mayfarer-sunglass-/pr-213259_c-40/', 'http://images.bagittoday.com/0/images/product/213259/Reecap_Unisex_Mayfarer_Sunglass_225X225_00_0.jpg', 'reecap unisex mayfarer sunglass']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/curtains/c-2199/', 'Curtains', 'private', 'http://www.bagittoday.com/cosmo-readymade-bedroom-curtain/pr-210368_c-2199/', 'http://images.bagittoday.com/0/images/product/210368/Cosmo_Readymade_Bedroom_Curtain_225X225_00_0.jpg', 'cosmo readymade bedroom curtain']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/formal-shoes/c-2087/', 'Formal Shoes', 'private', 'http://www.bagittoday.com/firemark-formal-black/pr-223388_c-2087/', 'http://images.bagittoday.com/0/images/product/223388/Firemark_Formal_Black_225X225_00_0.jpg', 'firemark formal black']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/formal-shoes/c-2087/', 'Formal Shoes', 'js', 'http://www.bagittoday.com/js--formals-shoe-brown/pr-202623_c-2087/', 'http://images.bagittoday.com/0/images/product/202623/JS__Formals_Shoe_BROWN_225X225_00_0.jpg', 'js  formals shoe brown']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/sports-shoes/c-2073/', 'Sports Shoes', 'columbus', 'http://www.bagittoday.com/columbus-shoes---tab-white-blue/pr-214617_c-2073/', 'http://images.bagittoday.com/0/images/product/214617/Columbus_Shoes_225X225_00_0.jpg', 'columbus shoes - tab white blue']
+
+['Home & Kitchen', 'http://www.bagittoday.com/kitchenware/c-448/', ' Kitchenware', 'http://www.bagittoday.com/kitchen-storage/c-2189/', 'Kitchen Storage', 'private', 'http://www.bagittoday.com/wondercraft-impact-casserole-20cm-with-glass-lid-by-chef-sanjeev-kapoor/pr-217044_c-2189/', 'http://images.bagittoday.com/0/images/product/217044/Wondercraft_Impact_Casserole_20cm_with_Glass_Lid_by_Chef_Sanjeev_Kapoor_225X225_00_0.jpg', 'wondercraft impact casserole 20cm with glass lid by chef sanjeev kapoor']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/sarees/c-103/', 'Sarees', 'aahana', 'http://www.bagittoday.com/aahana-srp-3314/pr-63197_c-103/', 'http://images.bagittoday.com/0/images/product/63197/AAHANA_SRP-3314_225X225_00_0.jpg', 'aahana srp-3314']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/sarees/c-103/', 'Sarees', 'awesome', 'http://www.bagittoday.com/awesome-yellow-semi-chiffon-art-printed-saree/pr-210924_c-103/', 'http://images.bagittoday.com/0/images/product/210924/Awesome_Yellow_Semi_Chiffon_Art_Printed_Saree_225X225_00_0.jpg', 'awesome yellow semi chiffon art printed saree']
+
+['Home & Kitchen', 'http://www.bagittoday.com/kitchenware/c-448/', ' Kitchenware', 'http://www.bagittoday.com/kitchen-storage/c-2189/', 'Kitchen Storage', 'private', 'http://www.bagittoday.com/masala-box-big/pr-222221_c-2189/', 'http://images.bagittoday.com/0/images/product/222221/Masala_Box-big_225X225_00_0.jpg', 'masala box-big']
+
+['Men', 'http://www.bagittoday.com/accessories/c-35/', ' Accessories', 'http://www.bagittoday.com/belts-and-wallets/c-33/', 'Belts & Wallets', 'rohit bal', 'http://www.bagittoday.com/rohit-bal-mens-belt-and-wallet/pr-157330_c-33/', "http://images.bagittoday.com/0/images/product/157330/Rohit_Bal_Men's_belt_and_Wallet_900X900_00_0.jpg", "rohit bal men's belt and wallet"]
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/denims/c-476/', 'Denims', 'flying machine', 'http://www.bagittoday.com/flying-machine-denim/pr-32297_c-476/', 'http://images.bagittoday.com/0/images/product/32297/Flying-Machine-Denim-00.jpg', 'flying machine denim']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/denims/c-476/', 'Denims', 'flying machine', 'http://www.bagittoday.com/flying-machine-denim/pr-32301_c-476/', 'http://images.bagittoday.com/0/images/product/32301/Flying-Machine-Denim-00.jpg', 'flying machine denim']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/denims/c-476/', 'Denims', 'flying machine', 'http://www.bagittoday.com/flying-machine-denim/pr-32304_c-476/', 'http://images.bagittoday.com/0/images/product/32304/Flying-Machine-Denim-00.jpg', 'flying machine denim']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/boots/c-2091/', 'Boots', 'puma', 'http://www.bagittoday.com/puma-chakka--shoe-beige-terrae-mid-africa/pr-102657_c-2091/', 'http://images.bagittoday.com/0/images/product/102657/Puma-chakka__Shoe-beige-Terrae_Mid_Africa_225X225_00_0.jpg', 'puma-chakka  shoe-beige-terrae mid africa']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/denims/c-476/', 'Denims', 'flying machine', 'http://www.bagittoday.com/flying-machine-denim/pr-32302_c-476/', 'http://images.bagittoday.com/0/images/product/32302/Flying-Machine-Denim-00.jpg', 'flying machine denim']
+
+['Kids', 'http://www.bagittoday.com/girls/c-2130/', ' Girls', 'http://www.bagittoday.com/apparel/c-2132/', 'Apparel', 'private', 'http://www.bagittoday.com/ladybird-girlwear-size--2-3-years/pr-59373_c-2132/', 'http://images.bagittoday.com/0/images/product/59373/LADYBIRD_GIRLWEAR_(FIOKTA-GRAY)-8902570159688_SIZE-_2-3_YRS_225X225_00_0.jpg', 'ladybird girlwear size- 2-3 years']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/jackets/c-2103/', 'Jackets', 'private', 'http://www.bagittoday.com/winter-jacket-with-sunglass/pr-206783_c-2103/', 'http://images.bagittoday.com/0/images/product/206783/Winter_Jacket_with_Sunglass_225X225_00_0.jpg', 'winter jacket with sunglass']
+
+['Kids', 'http://www.bagittoday.com/toys-and-books/c-1032/', ' Toys & Books', 'http://www.bagittoday.com/books/c-551/', 'Books', 'private', 'http://www.bagittoday.com/the-best-fairy-tales-of-anderson/pr-40003_c-551/', 'http://images.bagittoday.com/0/images/product/40003/The-Best-Fairy-Tales-Of-Anderson-00.jpg', 'the best fairy tales of anderson']
+
+['Kids', 'http://www.bagittoday.com/toys-and-books/c-1032/', ' Toys & Books', 'http://www.bagittoday.com/books/c-551/', 'Books', 'private', 'http://www.bagittoday.com/200-bedtime-stories/pr-40009_c-551/', 'http://images.bagittoday.com/0/images/product/40009/200-Bedtime-Stories-00.jpg', '200 bedtime stories']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199657_c-2185/', "http://images.bagittoday.com/0/images/product/199657/Ruhaan's__set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Kids', 'http://www.bagittoday.com/toys-and-books/c-1032/', ' Toys & Books', 'http://www.bagittoday.com/books/c-551/', 'Books', 'books', 'http://www.bagittoday.com/3d-storybooks---pirate:9789460338427/pr-50373_c-551/', 'http://images.bagittoday.com/0/images/product/50373/30020-225_BKBOOYOY00081_350X350_1.jpg', '3d storybooks - pirate:9789460338427']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199659_c-2185/', "http://images.bagittoday.com/0/images/product/199659/Ruhaan's__set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199661_c-2185/', "http://images.bagittoday.com/0/images/product/199661/Ruhaan's__set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199662_c-2185/', "http://images.bagittoday.com/0/images/product/199662/Ruhaan's__set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199663_c-2185/', "http://images.bagittoday.com/0/images/product/199663/Ruhaan's__set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199665_c-2185/', "http://images.bagittoday.com/0/images/product/199665/Ruhaan's__set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199670_c-2185/', "http://images.bagittoday.com/0/images/product/199670/Ruhaan's__set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199668_c-2185/', "http://images.bagittoday.com/0/images/product/199668/Ruhaan's__set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199675_c-2185/', "http://images.bagittoday.com/0/images/product/199675/Ruhaan's__set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199660_c-2185/', "http://images.bagittoday.com/0/images/product/199660/Ruhaan's__set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199667_c-2185/', "http://images.bagittoday.com/0/images/product/199667/Ruhaan's__set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199664_c-2185/', "http://images.bagittoday.com/0/images/product/199664/Ruhaan's__set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199689_c-2185/', "http://images.bagittoday.com/0/images/product/199689/Ruhaan's__Set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199679_c-2185/', "http://images.bagittoday.com/0/images/product/199679/Ruhaan's__set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199684_c-2185/', "http://images.bagittoday.com/0/images/product/199684/Ruhaan's__Set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199672_c-2185/', "http://images.bagittoday.com/0/images/product/199672/Ruhaan's__set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199677_c-2185/', "http://images.bagittoday.com/0/images/product/199677/Ruhaan's__set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199680_c-2185/', "http://images.bagittoday.com/0/images/product/199680/Ruhaan's__set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199673_c-2185/', "http://images.bagittoday.com/0/images/product/199673/Ruhaan's__set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199674_c-2185/', "http://images.bagittoday.com/0/images/product/199674/Ruhaan's__set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199671_c-2185/', "http://images.bagittoday.com/0/images/product/199671/Ruhaan's__set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199686_c-2185/', "http://images.bagittoday.com/0/images/product/199686/Ruhaan's__Set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199682_c-2185/', "http://images.bagittoday.com/0/images/product/199682/Ruhaan's__Set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199683_c-2185/', "http://images.bagittoday.com/0/images/product/199683/Ruhaan's__Set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199692_c-2185/', "http://images.bagittoday.com/0/images/product/199692/Ruhaan's__Set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199691_c-2185/', "http://images.bagittoday.com/0/images/product/199691/Ruhaan's__Set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199694_c-2185/', "http://images.bagittoday.com/0/images/product/199694/Ruhaan's__Set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199696_c-2185/', "http://images.bagittoday.com/0/images/product/199696/Ruhaan's__Set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199687_c-2185/', "http://images.bagittoday.com/0/images/product/199687/Ruhaan's__Set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199685_c-2185/', "http://images.bagittoday.com/0/images/product/199685/Ruhaan's__Set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-2-cushion-covers/pr-199688_c-2185/', "http://images.bagittoday.com/0/images/product/199688/Ruhaan's__Set_of_2_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 2 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199699_c-2185/', "http://images.bagittoday.com/0/images/product/199699/Ruhaan's__set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199690_c-2185/', "http://images.bagittoday.com/0/images/product/199690/Ruhaan's__Set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199693_c-2185/', "http://images.bagittoday.com/0/images/product/199693/Ruhaan's__Set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers', "ruhaan's", 'http://www.bagittoday.com/ruhaans--set-of-5-cushion-covers/pr-199697_c-2185/', "http://images.bagittoday.com/0/images/product/199697/Ruhaan's__set_of_5_Cushion_covers_225X225_00_0.jpg", "ruhaan's  set of 5 cushion covers"]
+
+['Home & Kitchen', 'http://www.bagittoday.com/kitchenware/c-448/', ' Kitchenware', 'http://www.bagittoday.com/kitchen-storage/c-2189/', 'Kitchen Storage', 'private', 'http://www.bagittoday.com/set-of-3-stainless-steel-canisters/pr-212055_c-2189/', 'http://images.bagittoday.com/0/images/product/212055/MOSAIC_SEE_THROUGH_CANISTER_3PCS_setCST0109S3_225X225_00_0.jpg', 'set of 3 stainless steel canisters']
+
+['Home & Kitchen', 'http://www.bagittoday.com/kitchenware/c-448/', ' Kitchenware', 'http://www.bagittoday.com/kitchen-storage/c-2189/', 'Kitchen Storage', 'private', 'http://www.bagittoday.com/cake-box-ribbed/pr-222224_c-2189/', 'http://images.bagittoday.com/0/images/product/222224/Cake_Box_Ribbed_225X225_00_0.jpg', 'cake box ribbed']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/shirts/c-653/', 'Shirts', 'flying machine', 'http://www.bagittoday.com/flying-machine-mens-casual-shirt/pr-38407_c-653/', 'http://images.bagittoday.com/0/images/product/38407/Flying-Machine-Mens-Casual-Shirt-00.jpg', 'flying machine mens casual shirt']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/scarves-caps-and-mufflers/c-2124/', 'Scarves, Caps & Mufflers', 'ananta', 'http://www.bagittoday.com/ananta-womens-pink-black-scarf/pr-216241_c-2124/', 'http://images.bagittoday.com/0/images/product/216241/Ananta_Womens_Pink_Black_Scarf_225X225_00_0.jpg', 'ananta womens pink black scarf']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/denims/c-476/', 'Denims', 'flying machine', 'http://www.bagittoday.com/flying-machine-denim---bruce/pr-37120_c-476/', 'http://images.bagittoday.com/0/images/product/37120/Flying-Machine-Denim---Bruce-00.jpg', 'flying machine denim - bruce']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/car-accessories/c-2191/', 'Car Accessories', 'private', 'http://www.bagittoday.com/mpi-bike-cover/pr-206723_c-2191/', 'http://images.bagittoday.com/0/images/product/206723/MPI_Bike_Cover_225X225_00_0.jpg', 'mpi bike cover']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/car-accessories/c-2191/', 'Car Accessories', 'private', 'http://www.bagittoday.com/titoni-charger/pr-206730_c-2191/', 'http://images.bagittoday.com/0/images/product/206730/Titoni_Charger_225X225_00_0.jpg', 'titoni charger']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/car-accessories/c-2191/', 'Car Accessories', 'private', 'http://www.bagittoday.com/mpi-bike-cover/pr-206720_c-2191/', 'http://images.bagittoday.com/0/images/product/206720/MPI_Bike_Cover_225X225_00_0.jpg', 'mpi bike cover']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/car-accessories/c-2191/', 'Car Accessories', 'private', 'http://www.bagittoday.com/mpi-bike-cover/pr-206722_c-2191/', 'http://images.bagittoday.com/0/images/product/206722/MPI_Bike_Cover_225X225_00_0.jpg', 'mpi bike cover']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/denims/c-476/', 'Denims', 'photon', 'http://www.bagittoday.com/photon-multicolor-cotton-denims---set-of-3/pr-220044_c-476/', 'http://images.bagittoday.com/0/images/product/220044/Photon_Multicolor_Cotton_Denims_225X225_00_0.jpg', 'photon multicolor cotton denims - set of 3']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/denims/c-476/', 'Denims', 'flying machine', 'http://www.bagittoday.com/flying-machine-denim/pr-32303_c-476/', 'http://images.bagittoday.com/0/images/product/32303/Flying-Machine-Denim-00.jpg', 'flying machine denim']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/wallets/c-38/', 'Wallets', 'ananta', 'http://www.bagittoday.com/ananta-wallet/pr-212076_c-38/', 'http://images.bagittoday.com/0/images/product/212076/Ananta_Wallet_225X225_00_0.jpg', 'ananta wallet']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/wallets/c-38/', 'Wallets', 'private', 'http://www.bagittoday.com/ladies-handlet/pr-209393_c-38/', 'http://images.bagittoday.com/0/images/product/209393/Ladies_Handlet_225X225_00_0.jpg', 'ladies handlet']
+
+['Men', 'http://www.bagittoday.com/accessories/c-35/', ' Accessories', 'http://www.bagittoday.com/backpacks/c-2064/', 'Backpacks', 'belkin', 'http://www.bagittoday.com/belkin-case-laptop-clmshl-18-inch---f8n463qe/pr-119146_c-2064/', 'http://images.bagittoday.com/0/images/product/119146/Belkin_Case_Laptop_Clmshl_18_inch_-_F8N463QE_225X225_00_0.jpg', 'belkin case laptop clmshl 18 inch - f8n463qe']
+
+['Men', 'http://www.bagittoday.com/accessories/c-35/', ' Accessories', 'http://www.bagittoday.com/backpacks/c-2064/', 'Backpacks', 'american tourister', 'http://www.bagittoday.com/american-tourister-black-limegreen-laptop-backpack-/pr-219655_c-2064/', 'http://images.bagittoday.com/0/images/product/219655/American_Tourister_Black_Limegreen_Laptop_Backpack_225X225_00_0.jpg', 'american tourister black limegreen laptop backpack']
+
+['Men', 'http://www.bagittoday.com/accessories/c-35/', ' Accessories', 'http://www.bagittoday.com/watches/c-44/', 'Watches', 'optima', 'http://www.bagittoday.com/optima-watch-white/pr-196405_c-44/', 'http://images.bagittoday.com/0/images/product/196405/OptimaWatch__WhiteBlack__Model_number__3149_225X225_00_0.jpg', 'optima watch white']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/casual-shoes/c-2088/', 'Casual Shoes', 'gliders', 'http://www.bagittoday.com/gliders-d.grey/pr-197488_c-2088/', 'http://images.bagittoday.com/0/images/product/197488/Gliders_D.Grey_225X225_00_0.jpg', 'gliders d.grey']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/dresses/c-2071/', 'Dresses', 'delhi seven', 'http://www.bagittoday.com/delhi-seven-black-cotton-dress/pr-220076_c-2071/', '', 'delhi seven black cotton dress']
+
+['Women', 'http://www.bagittoday.com/footwear/c-37/', ' Footwear', 'http://www.bagittoday.com/flip-flops/c-2113/', 'Flip Flops', 'crocs', 'http://www.bagittoday.com/crocs-flip-flop-black/pr-197213_c-2113/', 'http://images.bagittoday.com/0/images/product/197213/Crocs_Flip_Flop_Black_225X225_00_0.jpg', 'crocs flip flop black']
+
+['Women', 'http://www.bagittoday.com/footwear/c-37/', ' Footwear', 'http://www.bagittoday.com/sports-shoes/c-2109/', 'Sports Shoes', 'escan', 'http://www.bagittoday.com/escan-women-sports-shoes-grey/pr-213661_c-2109/', 'http://images.bagittoday.com/0/images/product/213661/Escan_Women_Sports_Shoes_Grey_225X225_00_0.jpg', 'escan women sports shoes grey']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/shirts/c-653/', 'Shirts', 'flying machine', 'http://www.bagittoday.com/flying-machine-mens-casual-shirt/pr-38394_c-653/', 'http://images.bagittoday.com/0/images/product/38394/Flying-Machine-Mens-Casual-Shirt-00.jpg', 'flying machine mens casual shirt']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/casual-shoes/c-2088/', 'Casual Shoes', 'rocio', 'http://www.bagittoday.com/rocio-loafers-camel/pr-62783_c-2088/', 'http://images.bagittoday.com/0/images/product/62783/Rocio_Loafers_Camel_225X225_00_0.jpg', 'rocio loafers camel']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/bluetooth-devices/c-2151/', 'Bluetooth Devices', 'iball', 'http://www.bagittoday.com/iball-bluetooth-headset-bt36i-with-mic---black/pr-207907_c-2151/', 'http://images.bagittoday.com/0/images/product/207907/iBall_Bluetooth_Headset_BT36i_with_MIC_-_Black_225X225_00_0.jpg', 'iball bluetooth headset bt36i with mic - black']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/wallets/c-38/', 'Wallets', 'private', 'http://www.bagittoday.com/double-stich-button-ladies-wallet/pr-209376_c-38/', 'http://images.bagittoday.com/0/images/product/209376/Double_Stich_Button_Ladies_Wallet_225X225_00_0.jpg', 'double stich button ladies wallet']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/wallets/c-38/', 'Wallets', 'tatter angel', 'http://www.bagittoday.com/tatter-angel-clutch/pr-209869_c-38/', 'http://images.bagittoday.com/0/images/product/209869/Tatter_Angel_Clutch_225X225_00_0.jpg', 'tatter angel clutch']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/wallets/c-38/', 'Wallets', 'borse', 'http://www.bagittoday.com/borse-ladies-brown-wallet/pr-213731_c-38/', 'http://images.bagittoday.com/0/images/product/213731/Borse_Ladies_Brown_Wallet_225X225_00_0.jpg', 'borse ladies brown wallet']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/wallets/c-38/', 'Wallets', 'private', 'http://www.bagittoday.com/purple-and-blue-fold-over-banaras-chain-clutch-/pr-222930_c-38/', 'http://images.bagittoday.com/0/images/product/222930/Purple_And_Blue_Fold_Over_Banaras_Chain_Clutch_225X225_00_0.jpg', 'purple and blue fold over banaras chain clutch']
+
+['Men', 'http://www.bagittoday.com/accessories/c-35/', ' Accessories', 'http://www.bagittoday.com/watches/c-44/', 'Watches', 'rocio', 'http://www.bagittoday.com/rocio-stylish-watch/pr-58604_c-44/', 'http://images.bagittoday.com/0/images/product/58604/ROCIO_WATCH_STYLE_2_RW1105_MRP2999_225X225_00_0.jpg', 'rocio stylish watch']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/casual-shoes/c-2088/', 'Casual Shoes', 'step up', 'http://www.bagittoday.com/step-up-casual-shoe-black/pr-209089_c-2088/', 'http://images.bagittoday.com/0/images/product/209089/Step_Up_Casual_Shoe_Black_225X225_00_0.jpg', 'step up casual shoe black']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/casual-shoes/c-2088/', 'Casual Shoes', 'private label', 'http://www.bagittoday.com/private-label-casual-shoe-brown/pr-200361_c-2088/', 'http://images.bagittoday.com/0/images/product/200361/Private_label_Casual_Shoe_Brown_225X225_00_0.jpg', 'private label casual shoe brown']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/casual-shoes/c-2088/', 'Casual Shoes', 'private label', 'http://www.bagittoday.com/private-label-loafer-red/pr-200362_c-2088/', 'http://images.bagittoday.com/0/images/product/200362/Private_label_Loafer_Red_225X225_00_0.jpg', 'private label loafer red']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/casual-shoes/c-2088/', 'Casual Shoes', 'step up', 'http://www.bagittoday.com/step-up-casual-shoe-brown/pr-214807_c-2088/', 'http://images.bagittoday.com/0/images/product/214807/Step_Up_Casual_Shoe_Brown_225X225_00_0.jpg', 'step up casual shoe brown']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/casual-shoes/c-2088/', 'Casual Shoes', 'step up', 'http://www.bagittoday.com/step-up-casual-shoe-black/pr-214810_c-2088/', 'http://images.bagittoday.com/0/images/product/214810/Step_Up_Casual_Shoe_Black_225X225_00_0.jpg', 'step up casual shoe black']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/audio-and-video/c-2166/', ' Audio & Video', 'http://www.bagittoday.com/audio-systems/c-217/', 'Audio Systems', 'sony', 'http://www.bagittoday.com/sony-smart-bluetooth-headset---mw-1/pr-150482_c-217/', 'http://images.bagittoday.com/0/images/product/150482/Sony_Smart_Bluetooth_Headset_-_MW-1_225X225_00_0.jpg', 'sony smart bluetooth headset - mw-1']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/handbags/c-43/', 'Handbags', 'cappuccino', 'http://www.bagittoday.com/cappuccino-red-sling-bag/pr-219690_c-43/', 'http://images.bagittoday.com/0/images/product/219690/Cappuccino_Sling_Bag-11509Red_225X225_00_0.jpg', 'cappuccino red sling bag']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/handbags/c-43/', 'Handbags', 'cappuccino', 'http://www.bagittoday.com/cappuccino-fuschia-hand-bag/pr-218902_c-43/', 'http://images.bagittoday.com/0/images/product/218902/Cappuccino_Fuschia_Hand_Bag_225X225_00_0.jpg', 'cappuccino fuschia hand bag']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-decor/c-1011/', ' Home Decor', 'http://www.bagittoday.com/wall-clocks/c-2070/', 'Wall Clocks', 'private', 'http://www.bagittoday.com/rio-wall-clock/pr-212316_c-2070/', 'http://images.bagittoday.com/0/images/product/212316/Rio_Wall_Clock_255X226_00_0.jpg', 'rio wall clock']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-decor/c-1011/', ' Home Decor', 'http://www.bagittoday.com/wall-clocks/c-2070/', 'Wall Clocks', 'private', 'http://www.bagittoday.com/wood-steering-wheel-brown-wood-finish-wallclock/pr-200307_c-2070/', 'http://images.bagittoday.com/0/images/product/200307/Wood_Steering_wheel_Brown_Wood_Finish_Wallclock_225X225_00_0.jpg', 'wood st['Electronics & Mobiles', 'http://www.bagittoday.com/mobiles/c-219/', ' Mobiles', 'http://www.bagittoday.com/ios---apple/c-2141/', 'iOS - Apple', 'apple', 'http://www.bagittoday.com/apple-iphone-4s---16gb-white/pr-28513_c-2141/', 'http://images.bagittoday.com/0/images/product/28513/Apple_iPhone_4S_-_16GB_(White)_225X225_00_0.jpg', 'apple iphone 4s - 16gb (white)']
+
+eering wheel brown wood finish wallclock']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/watches/c-42/', 'Watches', 'foster', 'http://www.bagittoday.com/fosters-women--watch-/pr-178707_c-42/', "http://images.bagittoday.com/0/images/product/178707/Foster's_Women__Watch_225X225_00_0.jpg", "foster's women  watch"]
+
+uct/215694/Silver_Queen_Opener_by_Mesleep_225X225_00_0.jpg', 'silver queen opener by mesleep']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/watches/c-42/', 'Watches', 'foster', 'http://www.bagittoday.com/fosters-unisex-watch-/pr-178748_c-42/', "http://images.bagittoday.com/0/images/product/178748/Foster's_Unisex_Watch_225X225_00_0.jpg", "foster's unisex watch"]
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/watches/c-42/', 'Watches', 'optima', 'http://www.bagittoday.com/fashion-track-by-optima-purple-ladies-watch/pr-214257_c-42/', 'http://images.bagittoday.com/0/images/product/214257/Fashion_Track_by_Optima_Pur_Ladies_Watch_225X225_00_0.jpg', 'fashion track by optima purple ladies watch']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'bwitch', 'http://www.bagittoday.com/bwitch-sapphire-bra/pr-59578_c-102/', 'http://images.bagittoday.com/0/images/product/59578/Bwitch_Sapphire_Bra_225X225_00_0.jpg', 'bwitch sapphire bra']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'bwitch', 'http://www.bagittoday.com/bwitch-sapphire-bra/pr-59577_c-102/', 'http://images.bagittoday.com/0/images/product/59577/Bwitch_Sapphire_Bra_225X225_00_0.jpg', 'bwitch sapphire bra']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'bwitch', 'http://www.bagittoday.com/bwitch-two-tone-bra/pr-59591_c-102/', 'http://images.bagittoday.com/0/images/product/59591/Bwitch_Two-Tone_Bra_225X225_00_0.jpg', 'bwitch two-tone bra']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'bwitch', 'http://www.bagittoday.com/bwitch-rosemary-bra/pr-59572_c-102/', 'http://images.bagittoday.com/0/images/product/59572/Bwitch_Rosemary_Bra_225X225_00_0.jpg', 'bwitch rosemary bra']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'bwitch', 'http://www.bagittoday.com/bwitch-two-tone-bra/pr-59590_c-102/', 'http://images.bagittoday.com/0/images/product/59590/Bwitch_Two-Tone_Bra_225X225_00_0.jpg', 'bwitch two-tone bra']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'bwitch', 'http://www.bagittoday.com/bwitch-two-tone-bra/pr-59592_c-102/', 'http://images.bagittoday.com/0/images/product/59592/Bwitch_Two-Tone_Bra_225X225_00_0.jpg', 'bwitch two-tone bra']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/ready-to-stitch/c-2122/', 'Ready to Stitch', 'zadine', 'http://www.bagittoday.com/zadine-multicolor-dress-material-/pr-201603_c-2122/', 'http://images.bagittoday.com/0/images/product/201603/Zadine_Multicolor_Dress_Material_225X225_00_0.jpg', 'zadine multicolor dress material']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/ready-to-stitch/c-2122/', 'Ready to Stitch', 'khazana', 'http://www.bagittoday.com/khazana-printed-unstitched-suit-with-colourful-embroidery---red/pr-209767_c-2122/', 'http://images.bagittoday.com/0/images/product/209767/Khazana_Printed_Unstitched_Suit_with_Colourful_Embroidery_-_Red_225X225_00_0.jpg', 'khazana printed unstitched suit with colourful embroidery - red']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/ready-to-stitch/c-2122/', 'Ready to Stitch', 'rcpc', 'http://www.bagittoday.com/rcpc-yellow-chanderi-cotton-designer-suit/pr-216500_c-2122/', 'http://images.bagittoday.com/0/images/product/216500/Rcpc_Yellow_Chanderi_Cotton_Designer_Suit_225X225_00_0.jpg', 'rcpc yellow chanderi cotton designer suit']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-decor/c-1011/', ' Home Decor', 'http://www.bagittoday.com/wall-clocks/c-2070/', 'Wall Clocks', 'private', 'http://www.bagittoday.com/supernatural-wall-clock/pr-212819_c-2070/', 'http://images.bagittoday.com/0/images/product/212819/Supernatural_Wall_Clock_225X225_00_0.jpg', 'supernatural wall clock']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-decor/c-1011/', ' Home Decor', 'http://www.bagittoday.com/wall-clocks/c-2070/', 'Wall Clocks', 'private', 'http://www.bagittoday.com/the-godfather-wall-clock/pr-212850_c-2070/', 'http://images.bagittoday.com/0/images/product/212850/The_Godfather_Wall_Clock_225X225_00_0.jpg', 'the godfather wall clock']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-decor/c-1011/', ' Home Decor', 'http://www.bagittoday.com/wall-clocks/c-2070/', 'Wall Clocks', 'private', 'http://www.bagittoday.com/kaash-music-group-wall-clock---black/pr-200332_c-2070/', 'http://images.bagittoday.com/0/images/product/200332/Kaash_music_group_wall_clock_-_Black_225X225_00_0.jpg', 'kaash music group wall clock - black']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-decor/c-1011/', ' Home Decor', 'http://www.bagittoday.com/wall-clocks/c-2070/', 'Wall Clocks', 'private', 'http://www.bagittoday.com/scooter-wall-clock---black/pr-200335_c-2070/', 'http://images.bagittoday.com/0/images/product/200335/Scooter_wall_Clock_-_Black_225X225_00_0.jpg', 'scooter wall clock - black']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'private', 'http://www.bagittoday.com/bwitch-perfect/pr-59563_c-102/', 'http://images.bagittoday.com/0/images/product/59563/Bwitch_Perfect_225X225_00_0.jpg', '']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-decor/c-1011/', ' Home Decor', 'http://www.bagittoday.com/wall-clocks/c-2070/', 'Wall Clocks', 'panache', 'http://www.bagittoday.com/panache-freedom-fighter-wall-clock/pr-211339_c-2070/', 'http://images.bagittoday.com/0/images/product/211339/Panache_Freedom_Fighter_Wall_Clock_225X225_00_0.jpg', 'panache freedom fighter wall clock']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/tablets/c-220/', ' Tablets', 'http://www.bagittoday.com/ipads/c-2145/', 'ipads', 'apple', 'http://www.bagittoday.com/apple-ipad-with-retina-display-with-wi-fi--cellular-128gb---white---me407hna/pr-36397_c-2145/', 'http://images.bagittoday.com/0/images/product/36397/Apple-iPad-with-Retina-display-with-Wi-Fi-+-Cellular-128GB---White---ME407HN-A-00.jpg', 'apple ipad with retina display with wi-fi + cellular 128gb - white - me407hna']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/tablets/c-220/', ' Tablets', 'http://www.bagittoday.com/ipads/c-2145/', 'ipads', 'apple', 'http://www.bagittoday.com/apple-ipad-with-retina-display-with-wi-fi--cellular-128gb---black---me406hna/pr-36396_c-2145/', 'http://images.bagittoday.com/0/images/product/36396/Apple-iPad-with-Retina-display-with-Wi-Fi-+-Cellular-128GB---Black---ME406HN-A-00.jpg', 'apple ipad with retina display with wi-fi + cellular 128gb - black - me406hna']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/innerwear/c-2069/', 'Innerwear', 'private', 'http://www.bagittoday.com/mens-full-sleeve-off-white-thermal/pr-204988_c-2069/', 'http://images.bagittoday.com/0/images/product/204988/Gents_fulll_sleeveoffwhite_thermal_85_900X900_00_0.jpg', "men's full sleeve off white thermal"]
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/tablets/c-220/', ' Tablets', 'http://www.bagittoday.com/android-based/c-2146/', 'Android Based', 'private', 'http://www.bagittoday.com/tescom-calling-tablet-turbo/pr-211551_c-2146/', 'http://images.bagittoday.com/0/images/product/211551/Tescom_Calling_Tablet_Turbo_225X225_00_0.jpg', '']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/peripherals/c-466/', ' Peripherals', 'http://www.bagittoday.com/speakers/c-218/', 'Speakers', 'hmdx', 'http://www.bagittoday.com/hmdx-plus-wireless-bluetooth-speaker---pineapple-yellow---hx-p240yl/pr-217119_c-218/', 'http://images.bagittoday.com/0/images/product/217119/HMDX_Plus_Wireless_Bluetooth_Speaker_-_Pineapple-Yellow_-_HX-P240YL_225X225_00_0.jpg', 'hmdx plus wireless bluetooth speaker - pineapple-yellow - hx-p240yl']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/peripherals/c-466/', ' Peripherals', 'http://www.bagittoday.com/other-accessories/c-2190/', 'Other Accessories', 'private', 'http://www.bagittoday.com/hdmi-cable-/pr-29326_c-2190/', 'http://images.bagittoday.com/0/images/product/29326/HDMI-Cable--00.jpg', 'hdmi cable']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/peripherals/c-466/', ' Peripherals', 'http://www.bagittoday.com/other-accessories/c-2190/', 'Other Accessories', 'private', 'http://www.bagittoday.com/iit-tips-green-lantern-laptop-skin-by-bluegape/pr-208825_c-2190/', 'http://images.bagittoday.com/0/images/product/208825/IIT_Tips_Green_Lantern_Laptop_Skin_by_bluegape_225X225_00_0.jpg', 'iit tips green lantern laptop skin by bluegape']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/mobiles/c-219/', ' Mobiles', 'http://www.bagittoday.com/windows-phones/c-2140/', 'Windows Phones', 'htc', 'http://www.bagittoday.com/htc-8x---blue/pr-38304_c-2140/', 'http://images.bagittoday.com/0/images/product/38304/HTC-8X---Blue-00.jpg', 'htc 8x - blue']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/mobiles/c-219/', ' Mobiles', 'http://www.bagittoday.com/windows-phones/c-2140/', 'Windows Phones', 'nokia', 'http://www.bagittoday.com/nokia-lumia-1320---white/pr-222476_c-2140/', 'http://images.bagittoday.com/0/images/product/222476/Nokia_Lumia_1320_-_White_225X225_00_0.jpg', 'nokia lumia 1320 - white']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'neva', 'http://www.bagittoday.com/neva-full-cup-bra-white/pr-62449_c-102/', 'http://images.bagittoday.com/0/images/product/62449/Neva_Full_Cup_Bra_White_225X225_00_0.jpg', 'neva full cup bra white']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/mobiles/c-219/', ' Mobiles', 'http://www.bagittoday.com/android-phones/c-2139/', 'Android Phones', 'htc', 'http://www.bagittoday.com/htc-explorer---white/pr-38293_c-2139/', 'http://images.bagittoday.com/0/images/product/38293/HTC-Explorer---White-00.jpg', 'htc explorer - white']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'bwitch', 'http://www.bagittoday.com/bwitch-gleam-bra/pr-59554_c-102/', 'http://images.bagittoday.com/0/images/product/59554/Bwitch_Gleam_Bra_225X225_00_0.jpg', 'bwitch gleam bra']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'self care', 'http://www.bagittoday.com/self-care-cotton-bra---beige/pr-199149_c-102/', 'http://images.bagittoday.com/0/images/product/199149/Self_Care_Cotton_Bra_-_Beige_225X225_00_0.jpg', 'self care cotton bra - beige']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'paris beauty', 'http://www.bagittoday.com/paris-beauty-full-cover-bra-pack-of-2/pr-215479_c-102/', 'http://images.bagittoday.com/0/images/product/215479/Paris_Beauty_Full_Cover_Bra_Pack_of_2_225X225_00_0.jpg', 'paris beauty full cover bra pack of 2']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'selfcare', 'http://www.bagittoday.com/selfcare-black-padded-bra---pack-of-2/pr-205513_c-102/', 'http://images.bagittoday.com/0/images/product/205513/Selfcare_Black_Padded_Bra_-_Pack_of_2_225X225_00_0.jpg', 'selfcare black padded bra - pack of 2']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'self care', 'http://www.bagittoday.com/self-care-multicolor-cotton-lingerie/pr-220166_c-102/', '', 'self care multicolor cotton lingerie']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/lingerie/c-102/', 'Lingerie', 'n-gal', 'http://www.bagittoday.com/n-gal-bedwear-lingerie/pr-59639_c-102/', 'http://images.bagittoday.com/0/images/product/59639/N-GAL_BEDWEAR_LINGERIE(2301)_225X225_00_0.jpg', 'n-gal bedwear lingerie']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/innerwear/c-2069/', 'Innerwear', 'lux', 'http://www.bagittoday.com/lux-inferno-full-sleve-round-neck---front-open-trousers---grey/pr-207349_c-2069/', 'http://images.bagittoday.com/0/images/product/207349/Lux_Inferno_Full_Sleve_(Round_Neck)_-_Front_Open_Trousers_-_Grey_225X225_00_0.jpg', 'lux inferno full sleve (round neck) - front open trousers - grey']
+
+['Kids', 'http://www.bagittoday.com/girls/c-2130/', ' Girls', 'http://www.bagittoday.com/accessories/c-2133/', 'Accessories', 'angel glitter', 'http://www.bagittoday.com/angel-glitter-gifts-for-kids-2-piece-jewellery-set---happy-penguin-feet/pr-205217_c-2133/', 'http://images.bagittoday.com/0/images/product/205217/Angel_Glitter_Gifts_For_Kids_2-Piece_Jewellery_Set_-_Happy_Penguin_Feet_225X225_00_0.jpg', 'angel glitter gifts for kids 2-piece jewellery set - happy penguin feet']
+
+['Kids', 'http://www.bagittoday.com/girls/c-2130/', ' Girls', 'http://www.bagittoday.com/accessories/c-2133/', 'Accessories', 'angel glitter', 'http://www.bagittoday.com/angel-glitter-gifts-for-kids-2-piece-jewellery-set---tiny-heart-playful/pr-205218_c-2133/', 'http://images.bagittoday.com/0/images/product/205218/Angel_Glitter_Gifts_For_Kids_2-Piece_Jewellery_Set_-_Tiny_Heart_Playful_225X225_00_0.jpg', 'angel glitter gifts for kids 2-piece jewellery set - tiny heart playful']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/storage-devices/c-433/', ' Storage Devices', 'http://www.bagittoday.com/pen-drives/c-2161/', 'Pen Drives', 'iball', 'http://www.bagittoday.com/iball-pen-drive-8-gb---hybrid/pr-207893_c-2161/', 'http://images.bagittoday.com/0/images/product/207893/iBall_Pen_Drive_8_GB_-_Hybrid_225X225_00_0.jpg', 'iball pen drive 8 gb - hybrid']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/headphones-and-mics/c-2157/', 'Headphones & Mics', 'iball', 'http://www.bagittoday.com/iball-headset-twister003---black/pr-207926_c-2157/', 'http://images.bagittoday.com/0/images/product/207926/iBall_Headset_Twister003_-_Black_225X225_00_0.jpg', 'iball headset twister003 - black']
+
+y_And_Blue_Gents_Wallet_225X225_00_0.jpg', 'grey and blue gents wallet']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/tops-and-t-shirts/c-657/', 'Tops & T-shirts', 'private', 'http://www.bagittoday.com/wills-white-polycotton-casual-top/pr-193638_c-657/', 'http://images.bagittoday.com/0/images/product/193638/Wills_White_Polycotton_Casual_Top_225X225_00_0.jpg', 'wills white polycotton casual top']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/tops-and-t-shirts/c-657/', 'Tops & T-shirts', 'sepia', 'http://www.bagittoday.com/sepia-poly-cotton-black-tunic/pr-198047_c-657/', 'http://images.bagittoday.com/0/images/product/198047/Sepia_Poly_Cotton_Black_Tunic_225X225_00_0.jpg', 'sepia poly cotton black tunic']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/other-accessories/c-2193/', 'Other Accessories', 'private', 'http://www.bagittoday.com/electric-rechargeable-heating-pad-for-body-pain/pr-210822_c-2193/', 'http://images.bagittoday.com/0/images/product/210822/Electric_Rechargeable_Heating_Pad_For_Body_Pain_225X225_00_0.jpg', 'electric rechargeable heating pad for body pain']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/other-accessories/c-2193/', 'Other Accessories', 'private', 'http://www.bagittoday.com/inoodle-usb-data-cable-for-apple-devices/pr-142363_c-2193/', 'http://images.bagittoday.com/0/images/product/142363/KolorFish_iNoodle_USB_Data_Cable_for_Apple_Devices_Red_225X225_00_0.jpg', 'inoodle usb data cable for apple devices']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/audio-and-video/c-2166/', ' Audio & Video', 'http://www.bagittoday.com/dvd-and-home-theatres/c-2167/', 'DVD & Home Theatres', 'kenvo', 'http://www.bagittoday.com/kenvo-home-theater-5.1-channel---k-8000/pr-215904_c-2167/', 'http://images.bagittoday.com/0/images/product/215904/Kenvo_Home_Theater_5.1_Channel_-_K-8000_225X225_00_0.jpg', 'kenvo home theater 5.1 channel - k-8000']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/sweaters-and-sweatshirts/c-2100/', 'Sweaters and Sweatshirts', 'provogue', 'http://www.bagittoday.com/provogue-sweater-navy/pr-60031_c-2100/', 'http://images.bagittoday.com/0/images/product/60031/Provogue_Sweater_Navy_225X225_00_0.jpg', 'provogue sweater navy']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/sweaters-and-sweatshirts/c-2100/', 'Sweaters and Sweatshirts', 'zion', 'http://www.bagittoday.com/zion-sweater-with-faux-leather-belt/pr-216290_c-2100/', 'http://images.bagittoday.com/0/images/product/216290/Zion_Sweater_with_Faux_Leather_Belt_225X225_00_0.jpg', 'zion sweater with faux leather belt']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/peripherals/c-466/', ' Peripherals', 'http://www.bagittoday.com/keyboards-and-mouse/c-2158/', 'Keyboards & Mouse', '3m', 'http://www.bagittoday.com/3m-keyboard-wrist-rest-wr308sr-70071474533-/pr-221682_c-2158/', 'http://images.bagittoday.com/0/images/product/221682/3M_Keyboard_Wrist_Rest_WR308SR_(70071474533_)_225X225_00_0.jpg', '3m keyboard wrist rest wr308sr (70071474533 )']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/nightwear/c-471/', 'Nightwear', 'fasense', 'http://www.bagittoday.com/fasense-pink-and-green-nighty-with-top-and-shorts/pr-212992_c-471/', 'http://images.bagittoday.com/0/images/product/212992/Fasense_Pink_and_Green_Nighty_with_Top_and_Shorts_225X225_00_0.jpg', 'fasense pink and green nighty with top and shorts']
+

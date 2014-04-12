@@ -1,0 +1,192 @@
+['Electronics & Mobiles', 'http://www.bagittoday.com/audio-and-video/c-2166/', ' Audio & Video', 'http://www.bagittoday.com/audio-systems/c-217/', 'Audio Systems']
+
+['Kids', 'http://www.bagittoday.com/boys/c-2134/', ' Boys', 'http://www.bagittoday.com/footwear/c-2135/', 'Footwear']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/sandals-and-slippers/c-2089/', 'Sandals & Slippers']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/t-shirts/c-2/', 'T Shirts']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/sports-shoes/c-2073/', 'Sports Shoes']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/cases-and-pouches/c-2149/', 'Cases & Pouches']
+
+['Kids', 'http://www.bagittoday.com/school-bags/c-2197/', ' School Bags', 'http://www.bagittoday.com/school-backpack/c-2218/', 'School backpack']
+
+['Kids', 'http://www.bagittoday.com/toys-and-books/c-1032/', ' Toys & Books', 'http://www.bagittoday.com/books/c-551/', 'Books']
+
+['Kids', 'http://www.bagittoday.com/boys/c-2134/', ' Boys', 'http://www.bagittoday.com/t-shirts/c-2219/', 'T-Shirts']
+
+['Kids', 'http://www.bagittoday.com/girls/c-2130/', ' Girls', 'http://www.bagittoday.com/apparel/c-2132/', 'Apparel']
+
+['Women', 'http://www.bagittoday.com/personal-care-and-beauty/c-445/', ' Personal Care and Beauty', 'http://www.bagittoday.com/hair-dryer/c-2221/', 'Hair Dryer']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/ethnic-wear/c-2195/', 'Ethnic Wear']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/audio-and-video/c-2166/', ' Audio & Video', 'http://www.bagittoday.com/audio-systems/c-217/', 'Audio Systems']
+
+['Men', 'http://www.bagittoday.com/personal-care-and-grooming/c-446/', ' Personal Care and Grooming', 'http://www.bagittoday.com/perfumes-and-deos/c-87/', 'Perfumes & Deos']
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/leggings-bottoms-and-salwars/c-2118/', 'Leggings, Bottoms & Salwars']
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/ethnic-wear/c-2186/', 'Ethnic Wear']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/boots/c-2091/', 'Boots']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/watches/c-42/', 'Watches']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/handbags/c-43/', 'Handbags']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/sports-shoes/c-2073/', 'Sports Shoes']
+
+['Men', 'http://www.bagittoday.com/personal-care-and-grooming/c-446/', ' Personal Care and Grooming', 'http://www.bagittoday.com/electric-shaver-and-trimmer/c-2223/', 'Electric Shaver and Trimmer']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/trousers/c-2119/', 'Trousers']
+
+
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/peripherals/c-466/', ' Peripherals', 'http://www.bagittoday.com/speakers/c-218/', 'Speakers']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/storage-devices/c-433/', ' Storage Devices', 'http://www.bagittoday.com/pen-drives/c-2161/', 'Pen Drives']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/tablets/c-220/', ' Tablets', 'http://www.bagittoday.com/android-based/c-2146/', 'Android Based']
+['Electronics & Mobiles', 'http://www.bagittoday.com/storage-devices/c-433/', ' Storage Devices', 'http://www.bagittoday.com/hard-disks/c-2160/', 'Hard Disks']
+
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/tablets/c-220/', ' Tablets', 'http://www.bagittoday.com/ipads/c-2145/', 'ipads']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/storage-devices/c-433/', ' Storage Devices', 'http://www.bagittoday.com/memory-cards/c-2162/', 'Memory Cards']
+
+['Women', 'http://www.bagittoday.com/footwear/c-37/', ' Footwear', 'http://www.bagittoday.com/boots/c-2114/', 'Boots']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/peripherals/c-466/', ' Peripherals', 'http://www.bagittoday.com/scanners/c-2156/', 'Scanners']
+
+['Kids', 'http://www.bagittoday.com/toys-and-books/c-1032/', ' Toys & Books', 'http://www.bagittoday.com/nursery-and-play/c-512/', 'Nursery & Play']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/peripherals/c-466/', ' Peripherals', 'http://www.bagittoday.com/other-accessories/c-2190/', 'Other Accessories']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/other-accessories/c-2193/', 'Other Accessories']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/audio-and-video/c-2166/', ' Audio & Video', 'http://www.bagittoday.com/lcd/c-215/', 'LCD']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/laptop-bags/c-2152/', 'Laptop Bags']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/curtains/c-2199/', 'Curtains']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/skirts/c-2115/', 'Skirts']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/bath-and-toilet-accessories/c-2192/', 'Bath & Toilet Accessories']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/sweaters-and-sweatshirts/c-2121/', 'Sweaters & Sweatshirts']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/casual-shoes/c-2088/', 'Casual Shoes']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/t-shirts/c-2/', 'T Shirts']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/denims/c-2120/', 'Denims']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/batteries-and-chargers/c-2154/', 'Batteries & Chargers']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/headphones-and-mics/c-2157/', 'Headphones & Mics']
+
+['Kids', 'http://www.bagittoday.com/boys/c-2134/', ' Boys', 'http://www.bagittoday.com/apparel/c-2136/', 'Apparel']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/cameras-and-camcorders/c-2163/', ' Cameras & Camcorders', 'http://www.bagittoday.com/digital-cameras/c-222/', 'Digital Cameras']
+
+['Men', 'http://www.bagittoday.com/accessories/c-35/', ' Accessories', 'http://www.bagittoday.com/backpacks/c-2064/', 'Backpacks']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/tops-and-t-shirts/c-657/', 'Tops & T-shirts']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/dresses/c-2071/', 'Dresses']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/accessories/c-221/', ' Accessories', 'http://www.bagittoday.com/bluetooth-devices/c-2151/', 'Bluetooth Devices']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/mobiles/c-219/', ' Mobiles', 'http://www.bagittoday.com/ios---apple/c-2141/', 'iOS - Apple']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-decor/c-1011/', ' Home Decor', 'http://www.bagittoday.com/decorative-items/c-2211/', 'Decorative Items']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/formal-shoes/c-2087/', 'Formal Shoes']
+
+['Men', 'http://www.bagittoday.com/accessories/c-35/', ' Accessories', 'http://www.bagittoday.com/sunglasses/c-34/', 'Sunglasses']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/quilts-and-comforters/c-2212/', 'Quilts & Comforters']
+
+['Kids', 'http://www.bagittoday.com/toys-and-books/c-1032/', ' Toys & Books', 'http://www.bagittoday.com/learning-and-activity/c-492/', 'Learning & Activity']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/sarees/c-103/', 'Sarees']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/ready-to-stitch/c-2101/', 'Ready to Stitch']
+
+['Home & Kitchen', 'http://www.bagittoday.com/appliances/c-447/', ' Appliances', 'http://www.bagittoday.com/home-appliances/c-614/', 'Home Appliances']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/wallets/c-38/', 'Wallets']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/audio-and-video/c-2166/', ' Audio & Video', 'http://www.bagittoday.com/led/c-216/', 'LED']
+
+['Women', 'http://www.bagittoday.com/personal-care-and-beauty/c-445/', ' Personal Care and Beauty', 'http://www.bagittoday.com/hair-straightener/c-2222/', 'Hair Straightener']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/innerwear/c-2069/', 'Innerwear']
+
+['Women', 'http://www.bagittoday.com/footwear/c-37/', ' Footwear', 'http://www.bagittoday.com/sports-shoes/c-2109/', 'Sports Shoes']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/denims/c-476/', 'Denims']
+
+['Kids', 'http://www.bagittoday.com/boys/c-2134/', ' Boys', 'http://www.bagittoday.com/apparel/c-2136/', 'Apparel']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/sunglasses/c-40/', 'Sunglasses']
+
+['Home & Kitchen', 'http://www.bagittoday.com/appliances/c-447/', ' Appliances', 'http://www.bagittoday.com/kitchen-appliances/c-2176/', 'Kitchen Appliances']
+
+['Men', 'http://www.bagittoday.com/personal-care-and-grooming/c-446/', ' Personal Care and Grooming', 'http://www.bagittoday.com/electric-shaver-and-trimmer/c-2223/', 'Electric Shaver and Trimmer']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/ethnic-wear/c-2186/', 'Ethnic Wear']
+
+['Kids', 'http://www.bagittoday.com/boys/c-2134/', ' Boys', 'http://www.bagittoday.com/t-shirts/c-2219/', 'T-Shirts']
+
+['Men', 'http://www.bagittoday.com/accessories/c-35/', ' Accessories', 'http://www.bagittoday.com/backpacks/c-2064/', 'Backpacks']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/bed-sheets/c-231/', 'Bed Sheets']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-decor/c-1011/', ' Home Decor', 'http://www.bagittoday.com/wall-clocks/c-2070/', 'Wall Clocks']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/wallets/c-38/', 'Wallets']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/cushions-and-covers/c-2185/', 'Cushions & Covers']
+
+['Kids', 'http://www.bagittoday.com/toys-and-books/c-1032/', ' Toys & Books', 'http://www.bagittoday.com/learning-and-activity/c-492/', 'Learning & Activity']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/bath-and-toilet-accessories/c-2192/', 'Bath & Toilet Accessories']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/sandals-and-slippers/c-2089/', 'Sandals & Slippers']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/quilts-and-comforters/c-2212/', 'Quilts & Comforters']
+
+['Women', 'http://www.bagittoday.com/accessories/c-41/', ' Accessories', 'http://www.bagittoday.com/scarves-caps-and-mufflers/c-2124/', 'Scarves, Caps & Mufflers']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/coats-and-jackets/c-2123/', 'Coats & Jackets']
+
+['Men', 'http://www.bagittoday.com/personal-care-and-grooming/c-446/', ' Personal Care and Grooming', 'http://www.bagittoday.com/perfumes-and-deos/c-87/', 'Perfumes & Deos']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/formal-shoes/c-2087/', 'Formal Shoes']
+
+['Men', 'http://www.bagittoday.com/footwear/c-31/', ' Footwear', 'http://www.bagittoday.com/sports-shoes/c-2073/', 'Sports Shoes']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/dresses/c-2071/', 'Dresses']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/gym-wear/c-2216/', 'Gym Wear']
+
+['Women', 'http://www.bagittoday.com/apparel/c-36/', ' Apparel', 'http://www.bagittoday.com/nightwear/c-471/', 'Nightwear']
+
+['Kids', 'http://www.bagittoday.com/school-bags/c-2197/', ' School Bags', 'http://www.bagittoday.com/school-backpack/c-2218/', 'School backpack']
+
+['Men', 'http://www.bagittoday.com/accessories/c-35/', ' Accessories', 'http://www.bagittoday.com/sunglasses/c-34/', 'Sunglasses']
+
+['Women', 'http://www.bagittoday.com/footwear/c-37/', ' Footwear', 'http://www.bagittoday.com/casual-shoes/c-2111/', 'Casual Shoes']
+
+['Home & Kitchen', 'http://www.bagittoday.com/home-furnishing/c-232/', ' Home Furnishing', 'http://www.bagittoday.com/bath-and-toilet-accessories/c-2192/', 'Bath & Toilet Accessories']
+
+['Men', 'http://www.bagittoday.com/accessories/c-35/', ' Accessories', 'http://www.bagittoday.com/belts-and-wallets/c-33/', 'Belts & Wallets']
+
+['Electronics & Mobiles', 'http://www.bagittoday.com/cameras-and-camcorders/c-2163/', ' Cameras & Camcorders', 'http://www.bagittoday.com/digital-cameras/c-222/', 'Digital Cameras']
+
+['Men', 'http://www.bagittoday.com/apparel/c-30/', ' Apparel', 'http://www.bagittoday.com/shorts-lowers-and-capris/c-2098/', 'Shorts, Lowers & Capris']
+
